@@ -1,0 +1,65 @@
+*,
+      html,
+      body{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+      }
+
+      .navbar-brand{
+          font-size: 90px;
+          font-family: Arial, Helvetica, sans-serif;
+          font-weight: 700;
+      }
+
+      .navbar-brand span{
+          color: #FF6500;
+      }
+
+      .navbar-nav a{
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          font-weight: 500;
+          font-style: normal;
+          transition: transform .2s;
+      }
+
+      .navbar-nav a:hover{
+          transform: scale(1.1);
+          text-decoration: underline;
+      }
+
+      #Home{
+          margin-top: 10px;
+      }
+
+      .hero h1{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: bold;
+        font-size: 70px
+      }
+
+      .teks p{
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          font-size: 20px;
+      }
+
+      .teks button{
+          font-family: Arial, Helvetica, sans-serif;
+          font-weight: 600;
+      }
+
+      .card-body img{
+          width: 15%;
+      }
+
+      .card-body span{
+          margin-left: 10px;
+          font-size: 20px;
+          font-family: Arial, Helvetica, sans-serif;font-weight: 600;
+      }
+
+      #explore{
+          margin-top: 100px;
+      }
+      
+
